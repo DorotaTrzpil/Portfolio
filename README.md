@@ -1,5 +1,7 @@
 # Dorota Trzpil 
 
+[LinkedIn Profile](https://www.linkedin.com/in/dorota-trzpil/) 
+
 ## About me: 
 Ma name is Dorota Trzpil, and I am software tester. 
 
