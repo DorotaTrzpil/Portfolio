@@ -1,4 +1,4 @@
-# Dorota Trzpil Portfolio 
+# Dorota Trzpil 
 
 ## About me: 
 Ma name is Dorota Trzpil, and I am software tester. 
