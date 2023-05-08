@@ -3,21 +3,15 @@
 [LinkedIn Profile](https://www.linkedin.com/in/dorota-trzpil/) 
 
 ## About me: 
-Ma name is Dorota Trzpil, and I am software tester. 
+Ma name is Dorota Trzpil, and I am a software tester. 
 
-For over 10 years I have been working as a tutor in the orphanage, where I improved my interpersonal skills,
- teamwork and patience. I gained experience in cooperating with a difficult clients. 
+For over 10 years, I have worked as a tutor in an orphanage, where I have honed my interpersonal skills, ability to work in a team, and patience. During this time, I have gained valuable experience in collaborating with challenging clients.
 
-I decided to change my professional life and I have been gradually gaining knowledge, 
-skills and experience as a software tester. I focus on continuous development and learning.
-I am currently working as a manual tester in Utest. I actively participated in more than 50 projects and maintain a high level of rating. 
-In addition, I participate in voluntary test projects.
+I made a decision to switch my career path, and have since been steadily acquiring knowledge, skills, and experience in the field of software testing. My focus is on continual development and learning. Presently, I work as a manual tester at Utest and have actively contributed to over 50 projects while maintaining a high rating. Additionally, I participate in voluntary testing projects.
  
-My goals are to improve my qualifications as a manual tester and enter the world of an automation testing. 
+My goals are to enhance my qualifications as a manual tester and get to know the field of automation testing.
 
-I invite you to check my repository. You can see what development path I am following and get to know
-with my sample work.
-
+I would like to invite you to review my repository, where you can gain insight into the development path that I am pursuing and review my sample work.
 
 
 ## My test cases:
@@ -33,7 +27,7 @@ with my sample work.
 ## My REST API: 
 * Trello E2E [collection](https://github.com/DorotaTrzpil/Portfolio/blob/main/TrelloApiPostman/TrelloE2E.postman_collection.json) & [environment](https://github.com/DorotaTrzpil/Portfolio/blob/main/TrelloApiPostman/Trello.postman_environment.json)
    - Please set the _Trello_ environment for the _Tello E2E_ collection
-   - To send a requests or run the collection, 
+   - To send requests or run the collection, 
   you need to enter your own Trello Key and Token in the Trello environment variables 
 
 * [The Trello E2E Run results (Postman)](https://github.com/DorotaTrzpil/Portfolio/blob/main/TrelloApiPostman/TrelloE2E.RunResults.pdf)
@@ -74,12 +68,12 @@ with my sample work.
 * [Current Rating: Bronze](https://github.com/DorotaTrzpil/Portfolio/blob/main/Certificates/UtestRating.png)
 
 * Active participation in a test cycles (over 50 cycles)
-* Testing a mobile and web applications
+* Testing mobile and web applications
 
-* Searching and reporting a defects
-* Analyzing a user stories
-* Preparation of a test documentation
-* Executing a test cases
+* Searching and reporting defects
+* Analyzing user stories
+* Preparation of test documentations
+* Executing test cases
 * Exploratory testing
 
 
@@ -100,9 +94,9 @@ with my sample work.
 
 ### **09.2011 - Present - Tutor in the Orphanage - POW _Mega Mocni_:**
 * Conducting an educational process
-* Creating a care plans
+* Creating care plans
 * Cooperation with a child's family
-* Cooperation with a superior institutions
+* Cooperation with superior institutions
 
 ## My courses:
 * [Kurs Git dla początkujących](https://github.com/DorotaTrzpil/Portfolio/blob/main/Certificates/Git%20dla%20poczatkujacych.pdf) - Tester Oprogramowania, Udemy 
