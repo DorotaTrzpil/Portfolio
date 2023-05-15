@@ -14,11 +14,11 @@ My goals are to enhance my qualifications as a manual tester and get to know the
 I would like to invite you to review my repository, where you can gain insight into the development path that I am pursuing and review my sample work.
 
 
-## My test cases:
-* [Create a Gmail account](https://github.com/DorotaTrzpil/Portfolio/blob/main/TC/Gmail-CreateAccount-TC.ods) 
-* [Login to a Gmail account](https://github.com/DorotaTrzpil/Portfolio/blob/main/TC/Gmail-LoginToAccount-TC.ods)
-* [Create an account on the Generic Shop website](https://github.com/DorotaTrzpil/Portfolio/blob/main/TC/GS-Registration-TasteCaseReportInTestLink.pdf)
-* [Verification of a product detail page on the Generic Shop website ](https://github.com/DorotaTrzpil/Portfolio/blob/main/TC/GS-PDP-TasteCaseReportInTestLink.pdf)
+## My test cases and execution raports:
+* [Create a Gmail account - Test cases](https://github.com/DorotaTrzpil/Portfolio/blob/main/TC%26ExecutionReports/Gmail-CreateAccount-TC.ods) 
+* [Login to a Gmail account - Test cases](https://github.com/DorotaTrzpil/Portfolio/blob/main/TC%26ExecutionReports/Gmail-LoginToAccount-TC.ods)
+* [Veryfication of PDP and adding itmes to cart - Generic Shop website - Test cases execution](https://github.com/DorotaTrzpil/Portfolio/blob/main/TC%26ExecutionReports/GenericShop-PDP-TestCaseExecution.pdf)
+* [Veryfication of PDP and adding itmes to cart - Generic Shop website - Test results](https://github.com/DorotaTrzpil/Portfolio/blob/main/TC%26ExecutionReports/GenericShop-PDP-TestResults.png)
 
 
 ## My bug reports: 
