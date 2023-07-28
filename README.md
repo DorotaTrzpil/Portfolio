@@ -7,7 +7,7 @@ Ma name is Dorota Trzpil, and I am a software tester.
 
 For over 10 years, I have worked as a tutor in an orphanage, where I have honed my interpersonal skills, ability to work in a team, and patience. During this time, I have gained valuable experience in collaborating with challenging clients.
 
-I made a decision to switch my career path, and have since been steadily acquiring knowledge, skills, and experience in the field of software testing. My focus is on continual development and learning. Presently, I work as a manual tester at Utest and have actively contributed to over 50 projects while maintaining a high rating. Additionally, I participate in voluntary testing projects.
+I made a decision to switch my career path, and have since been steadily acquiring knowledge, skills, and experience in the field of software testing. My focus is on continual development and learning. Presently, I work as a manual tester at Utest and have actively contributed to over 70 projects while maintaining a high rating. Additionally, I participate in voluntary testing projects.
  
 My goals are to enhance my qualifications as a manual tester and get to know the field of automation testing.
 
@@ -43,7 +43,8 @@ I would like to invite you to review my repository, where you can gain insight i
 * Newman
 * DevTools
 * SQL
-* JavaScript
+* Java - basics in progress 
+* JavaScript basic for Postman tests
 * Git
 * Rest Api
 * ISTQB FL knowledge
@@ -67,7 +68,7 @@ I would like to invite you to review my repository, where you can gain insight i
 
 * [Current Rating: Bronze](https://github.com/DorotaTrzpil/Portfolio/blob/main/Certificates/UtestRating.png)
 
-* Active participation in a test cycles (over 50 cycles)
+* Active participation in a test cycles (over 70 cycles)
 * Testing mobile and web applications
 
 * Searching and reporting defects
@@ -99,6 +100,7 @@ I would like to invite you to review my repository, where you can gain insight i
 * Cooperation with superior institutions
 
 ## My courses:
+* Mentoring with experienced tester
 * [Kurs Git dla początkujących](https://github.com/DorotaTrzpil/Portfolio/blob/main/Certificates/Git%20dla%20poczatkujacych.pdf) - Tester Oprogramowania, Udemy 
 * [Software Testing: Kickstart Your Career as a QA Professional](https://github.com/DorotaTrzpil/Portfolio/blob/main/Certificates/Software%20Testing.pdf) - Jadranko Kovačec, Udemy 
 * [Postman: The Complete Guide - REST API Testing](https://github.com/DorotaTrzpil/Portfolio/blob/main/Certificates/Postman%20V.Despa.pdf)  - Valentin Despa, Udemy 
