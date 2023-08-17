@@ -44,7 +44,7 @@ I would like to invite you to review my repository, where you can gain insight i
 * DevTools
 * SQL
 * Java - basics in progress 
-* JavaScript basic for Postman tests
+* JavaScript - basics for Postman tests
 * Git
 * Rest Api
 * ISTQB FL knowledge
@@ -119,8 +119,6 @@ I would like to invite you to review my repository, where you can gain insight i
 * "Thinking-Driven Testing. The Most Reasonable Approach to Quality Control" - Roman Adam
 * [Testowanie oprogramowania - P. Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * [Testowanie Oprogramowania Podcast - Norbert Jankowski](https://podcasttestowanie.pl/author/admin/)
-* [Po Szklanie i Na Testowanie - Jakub Konicki](https://poszklanieinatestowanie.pl/
-)
 * [Akademia QA - Bartosz Kita](https://www.youtube.com/@akademiaqa)
 * [TestITka](https://www.youtube.com/@TestITka)
 
