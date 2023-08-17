@@ -14,6 +14,12 @@ My goals are to enhance my qualifications as a manual tester and get to know the
 I would like to invite you to review my repository, where you can gain insight into the development path that I am pursuing and review my sample work.
 
 
+## My REST API: 
+* [Test cases for Trello/board](https://github.com/DorotaTrzpil/Portfolio/blob/eb4b8cc2083847cb1160c1d8aaa6464b812261be/TrelloApiPostman/TrelloTestCase.ods) 
+
+* [Postman collection (Trello/board E2E testing)](https://github.com/DorotaTrzpil/Portfolio/blob/eb4b8cc2083847cb1160c1d8aaa6464b812261be/TrelloApiPostman/TrelloBoard.postman_collection)
+
+
 ## My test cases and execution raports:
 * [Create a Gmail account - Test cases](https://github.com/DorotaTrzpil/Portfolio/blob/main/TC%26ExecutionReports/Gmail-CreateAccount-TC.ods) 
 * [Login to a Gmail account - Test cases](https://github.com/DorotaTrzpil/Portfolio/blob/main/TC%26ExecutionReports/Gmail-LoginToAccount-TC.ods)
@@ -24,14 +30,6 @@ I would like to invite you to review my repository, where you can gain insight i
 ## My bug reports: 
 * [The bugs report for the Sklep z Bugami website](https://github.com/DorotaTrzpil/Portfolio/blob/main/BugsReports/SklepZBugami%20-%20BugsReport.ods) 
 
-## My REST API: 
-* Trello E2E [collection](https://github.com/DorotaTrzpil/Portfolio/blob/main/TrelloApiPostman/TrelloE2E.postman_collection.json) & [environment](https://github.com/DorotaTrzpil/Portfolio/blob/main/TrelloApiPostman/Trello.postman_environment.json)
-   - Please set the _Trello_ environment for the _Tello E2E_ collection
-   - To send requests or run the collection, 
-  you need to enter your own Trello Key and Token in the Trello environment variables 
-
-* [The Trello E2E Run results (Postman)](https://github.com/DorotaTrzpil/Portfolio/blob/main/TrelloApiPostman/TrelloE2E.RunResults.pdf)
-* [The Trello E2E Run results (Newman)](https://github.com/DorotaTrzpil/Portfolio/blob/main/TrelloApiPostman/TrelloE2E.NewmanRun.png)
 
 
 
