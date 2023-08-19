@@ -20,11 +20,8 @@ I would like to invite you to review my repository, where you can gain insight i
 * [Postman collection (Trello/board E2E testing)](https://github.com/DorotaTrzpil/Portfolio/blob/eb4b8cc2083847cb1160c1d8aaa6464b812261be/TrelloApiPostman/TrelloBoard.postman_collection)
 
 
-## My test cases and execution raports:
-* [Create a Gmail account - Test cases](https://github.com/DorotaTrzpil/Portfolio/blob/main/TC%26ExecutionReports/Gmail-CreateAccount-TC.ods) 
-* [Login to a Gmail account - Test cases](https://github.com/DorotaTrzpil/Portfolio/blob/main/TC%26ExecutionReports/Gmail-LoginToAccount-TC.ods)
-* [Veryfication of PDP and adding itmes to cart - Generic Shop website - Test cases execution](https://github.com/DorotaTrzpil/Portfolio/blob/main/TC%26ExecutionReports/GenericShop-PDP-TestCaseExecution.pdf)
-* [Veryfication of PDP and adding itmes to cart - Generic Shop website - Test results](https://github.com/DorotaTrzpil/Portfolio/blob/main/TC%26ExecutionReports/GenericShop-PDP-TestResults.png)
+## Execution of Test Cases:
+* [Generic Shop / My Account - Test cases execution](https://github.com/DorotaTrzpil/Portfolio/blob/044711bd4f19764636349ea5cf6b314e84e810a4/ExecutionOfTestCases/GSMyAccount_ExecutionReport.pdf)
 
 
 ## My bug reports: 
@@ -35,22 +32,17 @@ I would like to invite you to review my repository, where you can gain insight i
 
 
 ## Tools, Technologies and Tech Skills:
-* Jira
-* TestLink
-* Postman
-* Newman
-* DevTools
 * SQL
 * Java - basics in progress 
 * JavaScript - basics for Postman tests
 * Git
 * Rest Api
+* Postman
+* DevTools
+* Jira
+* TestLink
 * ISTQB FL knowledge
-* Software testing
-* Creating test cases
-* Creating test plans
-* Reporting bugs
-* Scrum
+* Scrum methodology
 
 ## Soft Skills: 
 * Analytical thinking
