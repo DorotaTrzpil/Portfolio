@@ -21,7 +21,7 @@ I would like to invite you to review my repository, where you can gain insight i
 
 
 ## Execution of Test Cases:
-* [Generic Shop / My Account - Test cases execution](https://github.com/DorotaTrzpil/Portfolio/blob/044711bd4f19764636349ea5cf6b314e84e810a4/ExecutionOfTestCases/GSMyAccount_ExecutionReport.pdf)
+* [Generic Shop / My Account - Test cases execution] (https://github.com/DorotaTrzpil/Portfolio/blob/044711bd4f19764636349ea5cf6b314e84e810a4/ExecutionOfTestCases/GSMyAccount_ExecutionReport.pdf)
 
 
 ## My bug reports: 
