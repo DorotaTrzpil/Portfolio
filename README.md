@@ -14,7 +14,7 @@ My goals are to enhance my qualifications as a manual tester and get to know the
 I would like to invite you to review my repository, where you can gain insight into the development path that I am pursuing and review my sample work.
 
 
-## My REST API: 
+## REST API testing: 
 * [Test cases for Trello/board](https://github.com/DorotaTrzpil/Portfolio/blob/eb4b8cc2083847cb1160c1d8aaa6464b812261be/TrelloApiPostman/TrelloTestCase.ods) 
 
 * [Postman collection (Trello/board E2E testing)](https://github.com/DorotaTrzpil/Portfolio/blob/eb4b8cc2083847cb1160c1d8aaa6464b812261be/TrelloApiPostman/TrelloBoard.postman_collection)
@@ -24,8 +24,8 @@ I would like to invite you to review my repository, where you can gain insight i
 * [Generic Shop / My Account - Test cases execution](https://github.com/DorotaTrzpil/Portfolio/blob/044711bd4f19764636349ea5cf6b314e84e810a4/ExecutionOfTestCases/GSMyAccount_ExecutionReport.pdf)
 
 
-## My bug reports: 
-* [The bugs report for the Generic Shop website, MyAccoun subpage](https://github.com/DorotaTrzpil/Portfolio/blob/7092f0b357c80c3486fbb812f30292cea6657d43/BugsReports/GSBugReport.ods)
+## Bug reports: 
+* [The bugs report for the Generic Shop website, MyAccount subpage](https://github.com/DorotaTrzpil/Portfolio/blob/7092f0b357c80c3486fbb812f30292cea6657d43/BugsReports/GSBugReport.ods)
 * [The bugs report for the Sklep z Bugami website](https://github.com/DorotaTrzpil/Portfolio/blob/main/BugsReports/SklepZBugami%20-%20BugsReport.ods) 
 
 
