@@ -21,11 +21,11 @@ I would like to invite you to review my repository, where you can gain insight i
 
 
 ## Execution of Test Cases:
-* [Generic Shop / My Account - Test cases execution] (https://github.com/DorotaTrzpil/Portfolio/blob/044711bd4f19764636349ea5cf6b314e84e810a4/ExecutionOfTestCases/GSMyAccount_ExecutionReport.pdf)
+* [Generic Shop / My Account - Test cases execution](https://github.com/DorotaTrzpil/Portfolio/blob/044711bd4f19764636349ea5cf6b314e84e810a4/ExecutionOfTestCases/GSMyAccount_ExecutionReport.pdf)
 
 
 ## My bug reports: 
-* [The bugs report for the Generic Shop website, MyAccoun subpage] (https://github.com/DorotaTrzpil/Portfolio/blob/7092f0b357c80c3486fbb812f30292cea6657d43/BugsReports/GSBugReport.ods)
+* [The bugs report for the Generic Shop website, MyAccoun subpage](https://github.com/DorotaTrzpil/Portfolio/blob/7092f0b357c80c3486fbb812f30292cea6657d43/BugsReports/GSBugReport.ods)
 * [The bugs report for the Sklep z Bugami website](https://github.com/DorotaTrzpil/Portfolio/blob/main/BugsReports/SklepZBugami%20-%20BugsReport.ods) 
 
 
