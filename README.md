@@ -25,6 +25,7 @@ I would like to invite you to review my repository, where you can gain insight i
 
 
 ## My bug reports: 
+* [The bugs report for the Generic Shop website, MyAccoun subpage] (https://github.com/DorotaTrzpil/Portfolio/blob/7092f0b357c80c3486fbb812f30292cea6657d43/BugsReports/GSBugReport.ods)
 * [The bugs report for the Sklep z Bugami website](https://github.com/DorotaTrzpil/Portfolio/blob/main/BugsReports/SklepZBugami%20-%20BugsReport.ods) 
 
 
