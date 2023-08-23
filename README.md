@@ -15,6 +15,10 @@ I would like to invite you to review my repository, where you can gain insight i
 
 
 ## REST API testing: 
+
+Here you can find API testing for trello.com website within the scope of boards. I used methods based on CRUD operations and E2E testing.
+The collection includes functional and integration tests, as well as contract testing. Both happy paths and error handling was test. 
+
 * [Test cases for Trello/board](https://github.com/DorotaTrzpil/Portfolio/blob/eb4b8cc2083847cb1160c1d8aaa6464b812261be/TrelloApiPostman/TrelloTestCase.ods) 
         
         
