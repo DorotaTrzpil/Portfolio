@@ -15,7 +15,10 @@ I would like to invite you to review my repository, where you can gain insight i
 
 
 ## REST API testing: 
-* [Test cases for Trello/board](https://github.com/DorotaTrzpil/Portfolio/blob/eb4b8cc2083847cb1160c1d8aaa6464b812261be/TrelloApiPostman/TrelloTestCase.ods) (*please download raw to get access to spreadsheet file*)
+* [Test cases for Trello/board](https://github.com/DorotaTrzpil/Portfolio/blob/eb4b8cc2083847cb1160c1d8aaa6464b812261be/TrelloApiPostman/TrelloTestCase.ods) 
+        
+        
+    *Please download raw to get access to spreadsheet file*
 
 
 
