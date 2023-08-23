@@ -5,7 +5,7 @@
 ## About me: 
 Ma name is Dorota Trzpil, and I am a software tester. 
 
-For over 10 years, I have worked as a tutor in an orphanage, where I have honed my interpersonal skills, ability to work in a team, and patience. During this time, I have gained valuable experience in collaborating with challenging clients.
+For over 10 years, I have worked as a tutor in an Care and Educational Institution, where I have honed my interpersonal skills, ability to work in a team, and patience. During this time, I have gained valuable experience in collaborating with challenging clients.
 
 I made a decision to switch my career path, and have since been steadily acquiring knowledge, skills, and experience in the field of software testing. My focus is on continual development and learning. Presently, I work as a manual tester at Utest and have actively contributed to over 70 projects while maintaining a high rating. Additionally, I participate in voluntary testing projects.
  
@@ -15,9 +15,18 @@ I would like to invite you to review my repository, where you can gain insight i
 
 
 ## REST API testing: 
-* [Test cases for Trello/board](https://github.com/DorotaTrzpil/Portfolio/blob/eb4b8cc2083847cb1160c1d8aaa6464b812261be/TrelloApiPostman/TrelloTestCase.ods) 
+* [Test cases for Trello/board](https://github.com/DorotaTrzpil/Portfolio/blob/eb4b8cc2083847cb1160c1d8aaa6464b812261be/TrelloApiPostman/TrelloTestCase.ods) (*please download raw to get access to spreadsheet file*)
 
-* [Postman collection (Trello/board E2E testing)](https://github.com/DorotaTrzpil/Portfolio/blob/eb4b8cc2083847cb1160c1d8aaa6464b812261be/TrelloApiPostman/TrelloBoard.postman_collection)
+
+
+* Trello/board E2E testing:
+
+    * [Postman collection](https://github.com/DorotaTrzpil/Portfolio/blob/eb4b8cc2083847cb1160c1d8aaa6464b812261be/TrelloApiPostman/TrelloBoard.postman_collection) 
+
+
+    * Access link: https://api.postman.com/collections/24213863-378a6bef-f2fd-4a94-8e65-57cefdc12f3a?access_key=PMAT-01H8CSWSZ4XQVF158D1R6N4J76
+
+    *To gain access to the collection, download the collection and then import it in Postman, or copy the link and paste it in Postman import pop-up*
 
 
 ## Execution of Test Cases:
@@ -28,6 +37,8 @@ I would like to invite you to review my repository, where you can gain insight i
 * [The bugs report for the Generic Shop website, MyAccount subpage](https://github.com/DorotaTrzpil/Portfolio/blob/7092f0b357c80c3486fbb812f30292cea6657d43/BugsReports/GSBugReport.ods)
 * [The bugs report for the Sklep z Bugami website](https://github.com/DorotaTrzpil/Portfolio/blob/main/BugsReports/SklepZBugami%20-%20BugsReport.ods) 
 
+
+    *please download raw to get access to spreadsheet file*
 
 
 
@@ -42,7 +53,7 @@ I would like to invite you to review my repository, where you can gain insight i
 * DevTools
 * Jira
 * TestLink
-* ISTQB FL knowledge
+* ISTQB FL
 * Scrum methodology
 
 ## Soft Skills: 
