@@ -51,6 +51,8 @@ The collection includes functional and integration tests, as well as contract te
 
 
 ## Tools, Technologies and Tech Skills:
+
+
 * SQL
 * Java - basics in progress 
 * JavaScript - basics for Postman tests
@@ -110,15 +112,15 @@ The collection includes functional and integration tests, as well as contract te
 
 ## My courses:
 * Mentoring with experienced tester
-* [Kurs Git dla początkujących](https://github.com/DorotaTrzpil/Portfolio/blob/main/Certificates/Git%20dla%20poczatkujacych.pdf) - Tester Oprogramowania, Udemy 
-* [Software Testing: Kickstart Your Career as a QA Professional](https://github.com/DorotaTrzpil/Portfolio/blob/main/Certificates/Software%20Testing.pdf) - Jadranko Kovačec, Udemy 
-* [Postman: The Complete Guide - REST API Testing](https://github.com/DorotaTrzpil/Portfolio/blob/main/Certificates/Postman%20V.Despa.pdf)  - Valentin Despa, Udemy 
-* Git dla Testerów – Poznaj nową jakość wersjonowania - Przemek Barański, Krzysiek Kijas, Jaktestowac.pl 
+* [15 days of Postman for testers! Challenge](https://drive.google.com/file/d/1jit8wMQbVnYi3A8xjyTO1WcudX3A60r_/view?usp=sharing) 
+* [Postman: The Complete Guide - REST API Testing](https://github.com/DorotaTrzpil/Portfolio/blob/main/Certificates/Postman%20V.Despa.pdf)  - Valentin Despa, Udemy  
+* [Git for beginners ](https://github.com/DorotaTrzpil/Portfolio/blob/main/Certificates/Git%20dla%20poczatkujacych.pdf) - Tester Oprogramowania, Udemy
+* Git for Testers - Przemek Barański, Krzysiek Kijas, Jaktestowac.pl 
 * Databases: Relational Databases and SQL - StanfordOnline
 * Intro to SQL: Querying and managing data - Khan Academy 
 * SQL Tutorial - W3Schools 
-* [Praktyczny kurs testowania oprogramowania](https://github.com/DorotaTrzpil/Portfolio/blob/main/Certificates/Praktyczny%20Kurs%20Testowania.pdf) - Testowanie Oprogramowania, Udemy
-
+* [Practical Software Testing Course](https://github.com/DorotaTrzpil/Portfolio/blob/main/Certificates/Praktyczny%20Kurs%20Testowania.pdf) - Testowanie Oprogramowania, Udemy
+* [Software Testing: Kickstart Your Career as a QA Professional](https://github.com/DorotaTrzpil/Portfolio/blob/main/Certificates/Software%20Testing.pdf) - Jadranko Kovačec, Udemy 
 
 
 
@@ -129,7 +131,7 @@ The collection includes functional and integration tests, as well as contract te
 * [Testowanie oprogramowania - P. Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * [Testowanie Oprogramowania Podcast - Norbert Jankowski](https://podcasttestowanie.pl/author/admin/)
 * [Akademia QA - Bartosz Kita](https://www.youtube.com/@akademiaqa)
-* [TestITka](https://www.youtube.com/@TestITka)
+
 
 
 
